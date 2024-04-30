@@ -22,8 +22,6 @@ darkmode: false
 github_username:  ysh9698
 facebook_username: 윤승현
 instagram_username: sh_wicked
-pinterest_username: ysh9698
-youtube_username: Seung Hyeon Yoon
 
 # About Section
 # about_title: About Me (Use this to override about section title)
@@ -60,6 +58,13 @@ about_content: | # this will include new lines to allow paragraphs
   감사합니다. :)
 
 content:
+  - title: Career
+    layout: list
+    content:
+      - layout: left
+        title: 오픈컴
+        sub_title: 신규 웹 사이트 및 서비스 기획, 디자인, 퍼블리싱
+        caption: 2021.09 ~ 2024.02
   - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -144,17 +149,17 @@ content:
     layout: list
     content:
       - layout: top-left
-        title: 서비스 기획
-        sub_title: 신규 사이트 및 서비스 분석 및 기획
+        title: 사이트 및 서비스 제작
+        sub_title: 신규 사이트 및 서비스 분석 및 기획 후 제작
         description: | # this will include new lines to allow paragraphs
-          - [2021.09 ~ 2021.11, 김포시초등학교] 김포시초등학교 총동문연합회 신규 홈페이지 기획
-          - [2021.10 ~ 2021.12, 도원이엔씨] 도원이엔씨 신규 홈페이지 기획
-          - [2022.01 ~ 2022.02, 한양대학교] 한양대학교 신입생 오리엔테이션 신규 홈페이지 기획
-          - [2022.01 ~ 2022.02, 서울대학교] 서울대학교 사범대학 입학설명회 신규 홈페이지 기획
-          - [2022.01 ~ 2022.03, 신한금융지주회사] 신한스퀘어브릿지 서울 신규 홈페이지 기획
-          - [2022.03 ~ 2022.09, 하나투어] 하나투어비즈니스 신규 홈페이지 기획
+          - [2021.09 ~ 2021.11, 김포시초등학교] 김포시초등학교 총동문연합회 신규 홈페이지 제작
+          - [2021.10 ~ 2021.12, 도원이엔씨] 도원이엔씨 신규 홈페이지 제작
+          - [2022.01 ~ 2022.02, 한양대학교] 한양대학교 신입생 오리엔테이션 신규 홈페이지 제작
+          - [2022.01 ~ 2022.02, 서울대학교] 서울대학교 사범대학 입학설명회 신규 홈페이지 제작
+          - [2022.01 ~ 2022.03, 신한금융지주회사] 신한스퀘어브릿지 서울 신규 홈페이지 제작
+          - [2022.03 ~ 2022.09, 하나투어] 하나투어비즈니스 신규 홈페이지 제작
           - [2022.10 ~ 2024.02, 서울디자인재단] 서울디자인어워드 행사 관련 서비스 기획
-          - [2023.07 ~ 2023.10, 한국의희망] 한국의희망(현재는 개혁신당) 신규 홈페이지 기획
+          - [2023.07 ~ 2023.10, 한국의희망] 한국의희망(현재는 개혁신당) 신규 홈페이지 제작
           - [2023.12 ~ 2024.02, KB국민은행] KB라스쿨 고등 하이브리드 앱 서비스 기획
       - layout: top-left
         title: 웹 사이트 리뉴얼
@@ -186,6 +191,13 @@ content:
         description: |
           - JavaScript
           - React JS
+      - layout: left
+        title: Design Util
+        description: |
+          - Figma
+          - Photoshop
+          - Illustrator
+          - Premiere Pro
 #  - title: A Little More About Me
 #    layout: text
 #    content: | # this will include new lines to allow paragraphs
