@@ -20,12 +20,12 @@ darkmode: false
 
 # Social links
 github_username:  ysh9698
-facebook_username: 윤승현
+facebook_username: ysh9698
 instagram_username: sh_wicked
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/ysh_profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요.
   
@@ -169,6 +169,13 @@ content:
           - [2023.05 ~ 2023.06] 제20회 서울국제환경영화제 사이트 리뉴얼 작업 
           - [2023.05 ~ 2023.08] 서울포럼 사이트 리뉴얼 및 기능 개선 기획 및 일부 페이지 작업
           - [2023.08 ~ 2024.02] 핫플트립 사이트 관리자 페이지 기능 개선 및 일부 페이지 작업
+  - title: portfolio
+    layout: list
+    content:
+      - layout: left
+        title: 준비중.
+        sub-title: 준비중.
+        description: 준비중.
   - title: Tech Stack
     layout: list
     content:
